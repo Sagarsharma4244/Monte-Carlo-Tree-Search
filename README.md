@@ -2,4 +2,4 @@
 
 Using Upper Confidence Bound (UCB) Tree Search
 
-**UCT = MCTS + UCB ** 
+**UCT = MCTS + UCB**  
